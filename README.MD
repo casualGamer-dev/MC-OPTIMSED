@@ -20,7 +20,7 @@ Recommended top picks:
 You should stay away from:
 * Any paid server JAR that claims async anything - 99.99% chance of being a scam.
 * Bukkit/CraftBukkit/Spigot - Extremely outdated in terms of performance compared to other server software you have access to.
-* Any plugin/software that enables/disables/reloads plugins on runtime. See [this section](#plugins-enablingdisabling-other-plugins) to understand why.
+* Any plugin/software that enables/disables/reloads plugins on runtime. 
 * Many forks further downstream from Pufferfish or Purpur will encounter instability and other issues. If you're seeking more performance gains, optimize your server or invest in a personal private fork.
 ## Recommendations
 
