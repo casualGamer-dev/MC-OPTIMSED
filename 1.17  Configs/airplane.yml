@@ -1,0 +1,24 @@
+# Optimised minecraft server configs
+# By https://github.com/OLIMINATOR
+# I highly recommend customising it for your needs.
+
+info:
+  version: '1.0'
+# Optimizes projectile settings
+projectile:
+  max-loads-per-tick: 8
+  max-loads-per-projectile: 8
+# Optimizes entity brains when
+# they're far away from the player
+dab:
+  enabled: false
+  start-distance: 12
+  max-tick-freq: 20
+  activation-dist-mod: 7
+  blacklisted-entities: []
+# Configures Flare, the built-in profiler
+flare:
+  url: https://flare.airplane.gg
+# Options for connecting to Airplane's online utilities
+web-services:
+  token: ''
